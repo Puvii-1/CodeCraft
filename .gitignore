@@ -1,0 +1,21 @@
+# Environment variables (contains your API key — never commit this)
+
+.env
+
+# Python
+
+**pycache**/
+\*.pyc
+venv/
+env/
+.venv/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
